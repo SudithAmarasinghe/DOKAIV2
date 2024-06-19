@@ -1,0 +1,15 @@
+opencv-python-headless == 4.9.0.80
+pdf2image == 1.17.0
+pypdf2 == 3.0.1
+streamlit-aggrid == 1.0.5
+pandas == 2.2.0
+openpyxl == 3.1.2
+matplotlib ==  3.8.3
+transformers == 4.39.2
+torch == 2.1.0
+firebase-admin == 6.5.0
+ultralytics == 8.0.196
+attrdict == 2.0.1
+einops == 0.7.0
+timm == 0.9.16
+replicate == 0.26.0
